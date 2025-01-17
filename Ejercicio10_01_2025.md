@@ -64,9 +64,11 @@ Dependency on Communication
 
     Problem: User stories require extensive communication between the Product Owner, the development team, and stakeholders to clarify details.
     Impact: If communication is ineffective, errors in implementation may occur.
-    
+   
 
-![something] (https://media1.tenor.com/m/goesyKIDISYAAAAd/cool-hand-luke-failure.gif)
+
+![something](https://media1.tenor.com/m/goesyKIDISYAAAAd/cool-hand-luke-failure.gif)
+
 Difficulty Managing Complexity
 
     Problem: User stories are designed to be small and manageable, but when a task is complex or technical (such as migrations or infrastructure tasks), it can be difficult to translate it into a user story.
