@@ -134,4 +134,5 @@ Lack of Inclusion of Technical Stakeholders
 3. Response: (Start Small) Begin with an achievable action, like 5 minutes of stretching or a 10-minute walk. Make the barrier to entry low. 
 
 4. Reward: (Intrinsic Rewards) Focus on the way exercise makes you feel—stronger, more confident, or less stressed.
+
  ![Descripción alternativa](https://tenor.com/es/view/omg-wow-wow-meme-omg-wow-gif-download-omg-meme-gif-25892525)
