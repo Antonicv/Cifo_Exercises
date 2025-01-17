@@ -64,14 +64,17 @@ Dependency on Communication
 
     Problem: User stories require extensive communication between the Product Owner, the development team, and stakeholders to clarify details.
     Impact: If communication is ineffective, errors in implementation may occur.
-    ![] (https://media1.tenor.com/m/goesyKIDISYAAAAd/cool-hand-luke-failure.gif)
+    
 
+![something] (https://media1.tenor.com/m/goesyKIDISYAAAAd/cool-hand-luke-failure.gif)
 Difficulty Managing Complexity
 
     Problem: User stories are designed to be small and manageable, but when a task is complex or technical (such as migrations or infrastructure tasks), it can be difficult to translate it into a user story.
     Impact: This can lead to forced or disconnected stories that fail to deliver user value.
-    ![Descripción alternativa](https://media.tenor.com/4LvAD8hD5tcAAAAM/charlie-day.gif)
 
+
+   ![Descripción alternativa](https://media.tenor.com/4LvAD8hD5tcAAAAM/charlie-day.gif)
+ 
 Exclusive Focus on User Value
 
     Problem: User stories focus on the perceived value for the end user, which can lead to neglecting critical technical aspects like code quality, architecture, or performance.
@@ -129,4 +132,4 @@ Lack of Inclusion of Technical Stakeholders
 3. Response: (Start Small) Begin with an achievable action, like 5 minutes of stretching or a 10-minute walk. Make the barrier to entry low. 
 
 4. Reward: (Intrinsic Rewards) Focus on the way exercise makes you feel—stronger, more confident, or less stressed.
-5. ![Descripción alternativa](https://tenor.com/es/view/omg-wow-wow-meme-omg-wow-gif-download-omg-meme-gif-25892525)
+ ![Descripción alternativa](https://tenor.com/es/view/omg-wow-wow-meme-omg-wow-gif-download-omg-meme-gif-25892525)
