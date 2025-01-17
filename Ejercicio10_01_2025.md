@@ -135,4 +135,6 @@ Lack of Inclusion of Technical Stakeholders
 
 4. Reward: (Intrinsic Rewards) Focus on the way exercise makes you feel—stronger, more confident, or less stressed.
 
- ![Descripción alternativa](https://tenor.com/es/view/omg-wow-wow-meme-omg-wow-gif-download-omg-meme-gif-25892525)
+ ![](https://tenor.com/es/view/omg-wow-wow-meme-omg-wow-gif-download-omg-meme-gif-25892525)
+
+---
