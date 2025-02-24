@@ -26,6 +26,7 @@ const [state, setState] = useState(initialState)
 
 ## useEffect:
 
+- Se usa para manejar efectos secundarios en componentes.
 - Te permite sincronizar un componente con un sistema externo como una API mientras muestra la página. (como un chat dentro de la página)
 - Ejecuta código después del render | **SIDEEFFECT**
 
